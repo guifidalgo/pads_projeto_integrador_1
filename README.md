@@ -59,5 +59,4 @@ O modelo final apresentou excelente desempenho preditivo, com destaque para vari
 
 ## Autores
 
-Projeto desenvolvido por **Grupo 02** do Master em Data Science – Insper.  
-Para mais informações, entre em contato com [Seu Nome] via LinkedIn ou GitHub.
+Projeto desenvolvido por **Grupo 02 - Guilherme Fidalgo, Arthur Campedelli, Eric Lee** do Master em Data Science – Insper.  
