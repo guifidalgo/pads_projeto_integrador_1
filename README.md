@@ -37,16 +37,6 @@ Criar, testar e avaliar modelos preditivos com base em dados financeiros e opera
 
 O modelo final apresentou excelente desempenho preditivo, com destaque para variáveis de vendas, idade da empresa e estrutura de capital. O projeto recebeu **nota máxima** pela banca avaliadora.
 
-## Estrutura do repositório
-
-```
-├── data/                          # Base de dados utilizada
-├── notebook/                      # Notebook de pré-processamento em Python
-│   └── atividade_integradora_01_grupo02_v6.ipynb
-├── modelagem/                     # Relatório de modelagem e scripts em R
-├── imagens/                       # Gráficos e visualizações
-├── README.md                      # Arquivo de descrição do projeto
-```
 
 ## Requisitos
 
